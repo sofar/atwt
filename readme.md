@@ -8,29 +8,29 @@ at that.
 Prologue
 ========
 
-The land is lush with greens, the brown soil of the fields makes the
+*The land is lush with greens, the brown soil of the fields makes the
 grass shoot up knee high. It would be easy enough to live off the
 fruit and leave this landscape untouched, forever keeping it's beauty
 intact. But, you know you'd get settled eventually in a favorite spot
 in this Valhalla, this Eldorado, and do more than just sleep under the
 stars at night. Perhaps it's that nice cove overlooking the sunsets
 over the water, or the viewpoint upon the ridge back east that has
-the winter muttons grazing.
+the winter muttons grazing.*
 
-No, this landscape demands a keeper. Someone who doesn't just take,
+*No, this landscape demands a keeper. Someone who doesn't just take,
 but leaves a small but recognizable footprint. As friends come and go,
 they'll speak of this place with fondness, even years from now. Yes,
 it's a good day to get a head start before the sun stands high in
-the sky. Food. Wood. Dirt. Stone. That's how this place will be raised.
+the sky. Food. Wood. Dirt. Stone. That's how this place will be raised.*
 
-You reckon, know even, that you'll have to get stock. The traders
+*You reckon, know even, that you'll have to get stock. The traders
 aren't anywhere near, and it's not the season to make the long trails
 without a large cache of food. Not that it's dangerous to go out. As
 long as you stay afar from any of the caves, but you suspect that
 the caves may be useful to get to metal ores. You've heard stories
-about folk getting lost in caves searching for ores.
+about folk getting lost in caves searching for ores.*
 
-Then again, it's easier to go down the caves than up to the cloud
+*Then again, it's easier to go down the caves than up to the cloud
 rocks. You didn't believe the stories at first. It makes no sense
 anyway, rock mountains in the sky? But then, that one time, as you
 were gazing at the clouds in the warm summer fields, surrounded by
@@ -42,10 +42,10 @@ was quite the sight, I mean, it left a small crater! Unsettling
 for sure. Of course, it was a very moist and tender lamb roast that
 evening, but you didn't tell any one of the event. Needless to say
 there was no other logical explanation that the poor mutton ihad
-fallen from a sky rock.
+fallen from a sky rock.*
 
-Umpf. Enough day dreaming. First, let us get some breakfast, and
-then start construction of our abode!
+*Umpf. Enough day dreaming. First, let us get some breakfast, and
+then start construction of our abode!*
 
 
 Anatomy of A Tome With Trials
