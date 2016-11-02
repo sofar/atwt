@@ -87,6 +87,16 @@ packs. Many of the basic nodes in ATWT are named completely different
 than their minetest_game equivalents.
 
 
+Development and Project
+=======================
+
+All project development is done at our github project page:
+
+  - https://github.com/sofar/atwt
+
+Please report issues through the github issue tracker.
+
+
 Licensing Terms and Conditions
 ==============================
 
